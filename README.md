@@ -37,6 +37,8 @@ Repository: [blaze0089/security-research](https://github.com/blaze0089/security-
 
 Ghidra, radare2, AddressSanitizer, CMake, Gradle, C, C++, Java, Python.
 
+Cybersecurity undergraduate. Open to research collaborations and security internships.
+
 ## Contact
 
 GitHub: [@blaze0089](https://github.com/blaze0089)
