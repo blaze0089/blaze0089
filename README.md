@@ -12,7 +12,7 @@ I work on binary-analysis and reverse-engineering tools, with a focus on malform
 | radare2 | `psa` string detection stays in bounds on short and odd-sized blocks | [Merged #27376](https://github.com/radareorg/radare2/pull/27376) |
 | lzfse | 64-bit FSE input flush avoids a one-byte over-read at end of input | [PR #66](https://github.com/lzfse/lzfse/pull/66) |
 
-Verified Ghidra commit history: [commits authored by blaze0089](https://github.com/NationalSecurityAgency/ghidra/commits/master?author=blaze0089)
+Ghidra commit history: [commits authored by blaze0089](https://github.com/NationalSecurityAgency/ghidra/commits/master?author=blaze0089)
 
 ## Research index
 
