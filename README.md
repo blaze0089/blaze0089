@@ -45,4 +45,6 @@ Cybersecurity undergraduate. Open to research collaborations and security intern
 
 GitHub: [@blaze0089](https://github.com/blaze0089)
 
+For corrections or collaboration, open an issue in [security-research](https://github.com/blaze0089/security-research/issues).
+
 Security-impacting issues are reported privately to maintainers first. Technical details are published after a fix or advisory is available.
