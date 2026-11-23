@@ -1,6 +1,6 @@
 # Blaze
 
-I audit the binary-analysis and reverse-engineering tools that analysts rely on. My work is focused on malformed-input handling in parsers, protocol code, and file-format loaders: find the bug, build a minimal reproducer, fix it upstream, and document the root cause.
+I work on binary-analysis and reverse-engineering tools, with a focus on malformed-input handling in parsers, protocol code, and file-format loaders. I find the bug, build a minimal reproducer, fix it upstream, and document the root cause.
 
 ## Selected upstream fixes
 
