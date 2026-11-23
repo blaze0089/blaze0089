@@ -26,6 +26,8 @@ Writeups with root cause, reproducer, impact, and fix:
 
 Repository: [blaze0089/security-research](https://github.com/blaze0089/security-research)
 
+Most of the forks in this account are working branches for upstream pull requests. The findings and patch notes are collected in `security-research`.
+
 ## Focus
 
 - Binary format parsers and protocol handlers
