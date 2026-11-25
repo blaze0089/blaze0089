@@ -6,6 +6,7 @@ I work on binary-analysis and reverse-engineering tools, with a focus on malform
 
 | Project | Change | Status |
 | --- | --- | --- |
+| Ghidra | LZFSE input flush reads one byte past a truncated stream | [Merged #10189](https://github.com/NationalSecurityAgency/ghidra/pull/10189) |
 | Ghidra | ISF connection handler exits on client EOF instead of spinning at 100% CPU | [Merged #10185](https://github.com/NationalSecurityAgency/ghidra/pull/10185) |
 | Ghidra | Version Tracking preserves backslashes in persisted comments | [Merged #10191](https://github.com/NationalSecurityAgency/ghidra/pull/10191) |
 | Ghidra | Swift metadata parsing skips unknown descriptor kinds instead of aborting | [Merged #10167](https://github.com/NationalSecurityAgency/ghidra/pull/10167) |
